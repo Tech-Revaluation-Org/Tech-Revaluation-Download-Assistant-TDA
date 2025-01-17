@@ -1,0 +1,4 @@
+httpx
+aiohttp
+PyQt6
+mimetypes
