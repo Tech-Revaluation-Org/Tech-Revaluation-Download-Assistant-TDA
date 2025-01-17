@@ -24,3 +24,29 @@ Before running the project, install the necessary dependencies using `pip`:
 
 ```bash
 pip install pyqt6 plyer
+
+Installation
+Clone the repository (if applicable) or navigate to the project directory.
+
+Install the necessary dependencies by running the following command in your terminal or command prompt:
+
+bash
+Copy code
+pip install -r requirements.txt
+This will install all the required packages listed in the requirements.txt file.
+
+Note: If you don’t have a requirements.txt file, you can create one with the following content:
+
+Copy code
+
+
+Directory Structure
+The project should have the following directory structure:
+
+bash
+Copy code
+your_project_folder/
+├── modiule/
+│   └── UI.py         # The UI logic of the application
+└── main.py           # The entry point to run the application
+└── requirements.txt  # The file with all required dependencies
