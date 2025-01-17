@@ -41,6 +41,9 @@ Follow these steps to get your environment set up:
     ```
     pyqt6
     plyer
+    httpx
+    aiohttp
+    mimetypes
     ```
 
     You can generate this file with:
