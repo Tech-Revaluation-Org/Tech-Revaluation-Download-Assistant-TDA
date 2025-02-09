@@ -57,7 +57,7 @@ Follow these steps to get your environment set up:
 Your project should look like this:
 
 ```
-your_project_folder/
+TDA_project_folder/
 ├── modiule/
 │   └── UI.py         # The UI logic of the application
 ├── main.py           # The entry point to run the application
